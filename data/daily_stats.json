@@ -1,0 +1,38 @@
+{
+    "04-26-2025": {
+        "activities": [
+            {
+                "activityName": "push-ups",
+                "activityType": "strength",
+                "count": 30
+            },
+            {
+                "activityName": "sit-ups",
+                "activityType": "strength",
+                "count": 20
+            },
+            {
+                "activityName": "walking",
+                "activityType": "cardio",
+                "minutes": 25.0
+            },
+            {
+                "activityName": "cycling",
+                "activityType": "cardio",
+                "minutes": 15.0
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "lunch",
+                "mealName": "pasta",
+                "calories": 600
+            },
+            {
+                "mealType": "snack",
+                "mealName": "chips",
+                "calories": 90
+            }
+        ]
+    }
+}
