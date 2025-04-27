@@ -1,37 +1,677 @@
 {
-    "04-26-2025": {
+    "2025-04-27": {
         "activities": [
             {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 18,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
                 "activityName": "push-ups",
-                "activityType": "strength",
-                "count": 30
+                "count": 37,
+                "minutes": 0
             },
             {
+                "activityType": "strength",
                 "activityName": "sit-ups",
-                "activityType": "strength",
-                "count": 20
+                "count": 39,
+                "minutes": 0
             },
             {
-                "activityName": "walking",
                 "activityType": "cardio",
-                "minutes": 25.0
-            },
-            {
                 "activityName": "cycling",
+                "count": 0,
+                "minutes": 16
+            },
+            {
                 "activityType": "cardio",
-                "minutes": 15.0
+                "activityName": "running",
+                "count": 0,
+                "minutes": 35
             }
         ],
         "nutrition": [
             {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 669
+            },
+            {
                 "mealType": "lunch",
-                "mealName": "pasta",
-                "calories": 600
+                "mealName": "Random Lunch Meal",
+                "calories": 1153
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 712
             },
             {
                 "mealType": "snack",
-                "mealName": "chips",
-                "calories": 90
+                "mealName": "Random Snack Meal",
+                "calories": 517
+            }
+        ]
+    },
+    "2025-04-26": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 17,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "cycling",
+                "count": 0,
+                "minutes": 45
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 307
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 349
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 418
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 570
+            }
+        ]
+    },
+    "2025-04-25": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 49,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 28,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "sit-ups",
+                "count": 47,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 44
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 1118
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 949
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 548
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 584
+            }
+        ]
+    },
+    "2025-04-24": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 50,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "sit-ups",
+                "count": 18,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 49
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 926
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 1016
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 424
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 311
+            }
+        ]
+    },
+    "2025-04-23": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 18,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "sit-ups",
+                "count": 48,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 58
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 1063
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 1058
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 741
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 434
+            }
+        ]
+    },
+    "2025-04-22": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 50,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 48,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "cycling",
+                "count": 0,
+                "minutes": 43
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 942
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 1164
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 481
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 780
+            }
+        ]
+    },
+    "2025-04-21": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 46,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 41,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "sit-ups",
+                "count": 22,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 53
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "cycling",
+                "count": 0,
+                "minutes": 46
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 529
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 844
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 505
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 441
+            }
+        ]
+    },
+    "2025-04-20": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 40,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 46,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 29
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 251
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 920
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 1056
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 707
+            }
+        ]
+    },
+    "2025-04-19": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 29,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "sit-ups",
+                "count": 36,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 34,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "cycling",
+                "count": 0,
+                "minutes": 27
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 34
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 606
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 248
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 890
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 328
+            }
+        ]
+    },
+    "2025-04-18": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 23,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 32,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "sit-ups",
+                "count": 39,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 27
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 1077
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 379
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 1178
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 1112
+            }
+        ]
+    },
+    "2025-04-17": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 41,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "sit-ups",
+                "count": 18,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 47,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "cycling",
+                "count": 0,
+                "minutes": 54
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 27
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 1111
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 672
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 1029
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 1097
+            }
+        ]
+    },
+    "2025-04-16": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 16,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 36
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 1036
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 155
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 316
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 292
+            }
+        ]
+    },
+    "2025-04-15": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 16,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "push-ups",
+                "count": 25,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 27
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "cycling",
+                "count": 0,
+                "minutes": 30
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 996
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 513
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 346
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 664
+            }
+        ]
+    },
+    "2025-04-14": {
+        "activities": [
+            {
+                "activityType": "strength",
+                "activityName": "sit-ups",
+                "count": 47,
+                "minutes": 0
+            },
+            {
+                "activityType": "strength",
+                "activityName": "pull-ups",
+                "count": 35,
+                "minutes": 0
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "cycling",
+                "count": 0,
+                "minutes": 39
+            },
+            {
+                "activityType": "cardio",
+                "activityName": "running",
+                "count": 0,
+                "minutes": 30
+            }
+        ],
+        "nutrition": [
+            {
+                "mealType": "breakfast",
+                "mealName": "Random Breakfast Meal",
+                "calories": 336
+            },
+            {
+                "mealType": "lunch",
+                "mealName": "Random Lunch Meal",
+                "calories": 1165
+            },
+            {
+                "mealType": "dinner",
+                "mealName": "Random Dinner Meal",
+                "calories": 698
+            },
+            {
+                "mealType": "snack",
+                "mealName": "Random Snack Meal",
+                "calories": 407
             }
         ]
     }
